@@ -1,0 +1,15 @@
+M:Model
+#Data related logic
+# Mainly Interacts with database
+# Communicates with controller
+
+V:View
+# UI:- end users sees
+# Communicates with controller
+# Usually consits HTML & CSS
+
+C:Controller
+#Recieves input from(view,url)
+#Processes all request like get,post ,put & delete...
+#Get data from the Model
+#Passes data to the view

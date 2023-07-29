@@ -1,0 +1,5 @@
+Var is a functional scope 
+let and const is a blocked scope
+Node js is not a language or a framework its a Javascript runtime environment.
+Build on the goggle chrome's V8 engine
+It esssentially allow us to run the javascript code on server side.
